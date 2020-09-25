@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4m-world" alt="4m-world" /> </p>
+
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=4m-world&show_icons=false" alt="4m-world" />
  </p>
